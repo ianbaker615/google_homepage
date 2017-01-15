@@ -1,0 +1,72 @@
+.logo {
+	margin: auto;
+	width: 60%;
+	padding: 200px 0px 20px 0px; /*add padding 4 separartion from text field*/
+	text-align: center;
+}
+
+img {
+	width: 272px; height: 92px;
+}
+
+li {
+	display: inline;
+}
+
+#navbar {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+.search_field {
+	margin: auto;
+	width: 30%;
+}
+
+.search_field_text {
+	margin: auto;
+	width: 100%;
+	min-height: 30px;
+}
+
+.button_group {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.button {
+	display: inline-block;
+	text-align: center;
+	margin: auto;
+}
+
+.google_search {
+	min-height: 20px;
+	width: 100%;
+	text-align: center;
+}
+
+.feeling_lucky {
+	min-height: 20px;
+	width: 100%;
+	text-align: center;
+}
+
+#footer_left {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+	padding-top: 275px;
+}
+
+#footer_right {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+	padding-top: 275px;
+}
+
